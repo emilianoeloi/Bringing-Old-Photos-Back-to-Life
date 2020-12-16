@@ -1,4 +1,7 @@
+checkpoints.zip*
 __pycache__/
 *.pyc
 *~
+Synchronized-BatchNorm-PyTorch
+*bz2
 
